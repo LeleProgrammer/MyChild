@@ -1,0 +1,12 @@
+MyChild 1.0.0
+Copyright (C) 2026 MyChild contributors
+SPDX-License-Identifier: GPL-3.0-only
+
+本项目的源代码、原创叙事与 SVG 插画按照 GNU General Public License
+version 3 only 发布。详见 LICENSE。无担保。
+
+本项目运行时只使用 HTML、CSS、原生 JavaScript、系统字体和内联 SVG。
+不捆绑第三方框架、图片、远程脚本或外部数据服务。
+
+这是虚构的成长模拟，资源、能力与教育制度参数服务于游戏，不是政策
+统计结果、医学评价、实际录取承诺或针对某个现实家庭的教育建议。
